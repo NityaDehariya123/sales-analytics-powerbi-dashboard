@@ -3,7 +3,7 @@
 An interactive sales dashboard built with **MySQL, Power BI, DAX and Power Query**.
 
 ## Dashboard Preview
-![Dashboard](Screenshot%202026-11-12%20205758.png)
+![Dashboard](Screenshot%202026-11-12%20205759.png)
 
 ## What this project does
 - Connects a MySQL sales database to Power BI
